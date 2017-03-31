@@ -7,4 +7,4 @@ abcd acdb dbac
 is considered one Anagram Class.
 
 ###
-Run by downloading Anagram.jar and typing "java -jar Anagram.jar '<'input file'>' '<'output file'>'" into command line.
+Run by downloading Anagram.jar and typing "java -jar Anagram.jar (input file) (output file)" into command line.
