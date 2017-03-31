@@ -1,1 +1,7 @@
 # Anagram-Classifier
+
+###
+Program to read an input file of space separated words and computes an output file containing the organized sets of Anagram Classes of the input file.
+For example:
+abcd acdb dbac
+is considered one Anagram Class.
