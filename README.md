@@ -5,3 +5,6 @@ Program to read an input file of space separated words and computes an output fi
 For example:
 abcd acdb dbac
 is considered one Anagram Class.
+
+###
+Run by downloading Anagram.jar and typing "java -jar Anagram.jar <input file> <output file>" into command line.
